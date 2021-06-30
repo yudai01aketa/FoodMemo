@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">24dp</dimen>
+    <dimen name="margin_large">128dp</dimen>
+    <dimen name="height_80">80dp</dimen>
+    <dimen name="image_square">132dp</dimen>
+    <dimen name="image_square_small">80dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="constraint_guide_begin">184dp</dimen>
+</resources>
