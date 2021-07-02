@@ -49,4 +49,6 @@
     <string name="unauthorized_error">認証が有効ではありません</string>
     <string name="server_error">サーバー接続エラー</string>
     <string name="occurred_error">エラーが発生しました</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
