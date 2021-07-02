@@ -1,3 +1,54 @@
 <resources>
-    <string name="app_name">FoodMemo</string>
+    <!-- ユーザー -->
+    <string name="app_name">食メモ</string>
+    <string name="email">メールアドレス</string>
+    <string name="password">パスワード</string>
+    <string name="password_confirm">パスワード確認</string>
+    <string name="login">ログイン</string>
+    <string name="sign_up">新規登録</string>
+    <string name="logout">ログアウト</string>
+    <string name="create_account">アカウント設定</string>
+    <!-- 料理　-->
+    <string name="food_list">料理一覧</string>
+    <string name="add_food">料理追加</string>
+    <string name="text_view_food_name">料理名</string>
+    <string name="text_view_food_price">金額</string>
+    <string name="text_view_food_date">購入日</string>
+    <string name="add_food_image">料理画像</string>
+    <string name="edit_food">料理編集</string>
+    <!-- menu -->
+    <string name="save">保存</string>
+    <string name="add">追加</string>
+    <string name="navigation_food">料理一覧</string>
+    <string name="navigation_setting">設定</string>
+    <string name="calorie">カロリー</string>
+    <!-- ログアウトダイアログ -->
+    <string name="alert_title">警告</string>
+    <string name="alert_message">ログアウトしてもよろしいですか？</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_cancel">Cancel</string>
+    <!-- Toast -->
+    <string name="success_login">ログインに成功しました</string>
+    <string name="failure_login">ログインに失敗しました</string>
+    <string name="success_sign_up">サインアップに成功しました</string>
+    <string name="failure_sign_up">サインアップに失敗しました</string>
+    <string name="success_logout">ログアウトに成功しました</string>
+    <string name="failure_logout">ログアウトに失敗しました</string>
+    <string name="success_food_list">料理の一覧取得に成功しました</string>
+    <string name="failure_food_list">料理の一覧取得に失敗しました</string>
+    <string name="success_add_food">料理を登録しました</string>
+    <string name="failure_add_food">料理の登録に失敗しました</string>
+    <string name="success_edit_food">料理を編集しました</string>
+    <string name="failure_edit_food">料理の編集に失敗しました</string>
+    <!-- validation/Alert -->
+    <string name="is_empty">未入力の項目があります</string>
+    <string name="invalid_email_password">メールまたはパスワードの値が有効ではありません</string>
+    <string name="not_match_password">パスワードが一致していません</string>
+    <!-- Error -->
+    <string name="net_work_error">ネットワーク接続エラー</string>
+    <string name="unauthorized_error">認証が有効ではありません</string>
+    <string name="server_error">サーバー接続エラー</string>
+    <string name="occurred_error">エラーが発生しました</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
