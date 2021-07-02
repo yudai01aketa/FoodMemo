@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FoodMemo">
-        <activity android:name=".activity.BookListActivity"></activity>
+        <activity android:name=".activity.FoodAddActivity"></activity>
+        <activity android:name=".activity.BookListActivity" />
         <activity android:name=".activity.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
