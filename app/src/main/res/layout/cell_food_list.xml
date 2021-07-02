@@ -41,7 +41,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/jpy"
+        android:text="@string/calorie"
         android:textSize="@dimen/text_size"
         app:layout_constraintStart_toEndOf="@+id/text_view_food_calorie"
         app:layout_constraintTop_toTopOf="@id/text_view_food_calorie" />
