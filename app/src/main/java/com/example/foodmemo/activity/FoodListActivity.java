@@ -30,7 +30,7 @@ public class FoodListActivity extends AppCompatActivity {
         com.example.foodmemo_android_java.utils.FragmentUtils.switchFragment(getSupportFragmentManager(), new FoodListFragment());
         return true;
       case R.id.navigation_setting:
-        com.example.foodmemo_android_java.utils.FragmentUtils.switchFragment(getSupportFragmentManager(), new com.example.foodmanager_android_java.fragment.LogoutFragment());
+        com.example.foodmemo_android_java.utils.FragmentUtils.switchFragment(getSupportFragmentManager(), new com.example.foodmemo.fragment.LogoutFragment());
         return true;
       default:
         return false;
